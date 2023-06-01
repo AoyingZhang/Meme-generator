@@ -1,8 +1,18 @@
 * {
     box-sizing: border-box;
 }
-
+main{
+    padding: 36px;
+}
 body {
     font-family: "Karla", sans-serif;
     margin: 0;
+}
+.header{
+    display: flex;
+    align-items: center;
+    height: 65px;
+    color: white;
+    padding: 20px;
+    background: green;
 }
